@@ -1,0 +1,10 @@
+10e-6   	# grid spacing [m]       
+9.81		# gravitational const [m/s2]
+1e-6		# viscosity [m2/s]
+5.9e-6		# Reaction rate constant [m/s]
+0.79e-9		# Diffusion Coefficient [m2/s]
+2710		# mineral density [kg/m3]
+16		# C/Cs [-]
+9.48e-4        # cs 
+1.76e-10	# Fixed flow [m3/s]
+
